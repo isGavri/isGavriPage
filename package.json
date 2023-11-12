@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://isGavri.github.io/isGavriPage",
+  "homepage": "https://isgavri.github.io/isGavriPage/",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://isGavri.github.io/isGavriPage'",
+    "build-gh": "parcel build --public-url 'https://isgavri.github.io/isGavriPage/'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
