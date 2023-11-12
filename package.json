@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://isGavri.github.io/portafolio",
+  "homepage": "https://isGavri.github.io/isGavriPage/",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
