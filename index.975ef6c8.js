@@ -27092,7 +27092,7 @@ var _stylesCss = require("./styles.css");
     email: "zssykes1@gmail.com",
     gitHub: "https://github.com/isGavri",
     instagram: "",
-    linkedIn: "https://www.linkedin.com/in/estefan-gabriel-partida-toal%C3%A1-6004ba294",
+    linkedIn: "estefan-gabriel-partida-toal%C3%A1-6004ba294",
     medium: "",
     twitter: "",
     youTube: ""
