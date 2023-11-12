@@ -27,7 +27,7 @@ const siteProps = {
   name: "isGavri",
   title: "Computer Engineeing Student & In the path of becoming a Full Stack Developer",
   email: "zssykes1@gmail.com",
-  gitHub: "https://github.com/isGavri",
+  gitHub: "isGavri",
   instagram: "",
   linkedIn: "estefan-gabriel-partida-toal%C3%A1-6004ba294",
   medium: "",
